@@ -1,7 +1,7 @@
-# ![rupee](https://github.com/PrathamChoudharyy/Currency_Converter/assets/114939653/4a7edc98-4374-4146-97ef-4bd034136223 | width=80)  Currency_Converter
-![illustration](https://github.com/PrathamChoudharyy/Currency_Converter/assets/114939653/9547c4e1-a7cc-42e3-b2a2-765ef23a317e)
+# Currency_Converter
+![rupee](https://github.com/PrathamChoudharyy/Currency_Converter/assets/114939653/4a7edc98-4374-4146-97ef-4bd034136223)
 
-Title: Currency Converter - Convert Your Currency
+# Title: Currency Converter - Convert Your Currency
 
 This HTML code represents a web page for a Currency Converter application. It provides a user-friendly interface for converting one currency to another, with the following key elements:
 
