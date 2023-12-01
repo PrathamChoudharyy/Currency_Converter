@@ -5,6 +5,13 @@
 
 This HTML code represents a web page for a Currency Converter application. It provides a user-friendly interface for converting one currency to another, with the following key elements:
 
+
+
+
+<img width="960" alt="Screenshot 2023-12-01 213125" src="https://github.com/PrathamChoudharyy/Currency_Converter/assets/114939653/b7c42913-ee04-4bb9-9dc4-25e2e8437c07">
+
+
+
 1. Navigation Bar (Navbar):
   The navigation bar is located at the top of the page and contains the site's logo and navigation links.
   Navigation links include "Home," "About Us," and "Contact."
